@@ -11,4 +11,4 @@ permalink: /open_testlog/
 
 암호화 로그 비밀번호 : test
 
-{% include_relative testlog.html %}
+{% include_relative 앉은바지락의 깊은고민 - 플레잉 - 로그전용 [1338046423081680948] %}
